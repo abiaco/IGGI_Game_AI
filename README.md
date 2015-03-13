@@ -2,6 +2,12 @@
 
 This is the one-week project for the IGGI Game AI module. A Genetic Algorithm which evolves HeightMaps.
 
+Pre-requisites for running the project:
+	OpenCV (2.4.9+ preferably).
+	Recommend linux operating system to avoid headaches installing and configuring OpenCV, and also for speed reasons.
+	Recommended use of Visual Studio 2013 (in Windows) and whatever IDE / vim / emacs / sublime in Linux.
+	Other than that, smooth sailing.
+
 Most is described in the report, however, one aspect needs mentioning: how to add new Individual classes for the GA to process properly.
 
 Rather easy:
